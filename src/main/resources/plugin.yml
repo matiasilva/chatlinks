@@ -1,0 +1,10 @@
+name: ChatLinks
+main: io.github.matiasilva.chatlinks.ChatLinks
+version: 1.0
+api-version: 1.15
+author: hamlam
+commands:
+  slack:
+    description: Mostra o link para o nosso canal de Slack!
+    usage: "Utilize /slack para juntares-te ao nosso canal Slack"
+    permission: chatlinks.slack
